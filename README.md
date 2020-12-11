@@ -1,6 +1,7 @@
 Ruby container images
 ==================
 antosh
+nwe
 [![Build Status](https://travis-ci.org/sclorg/s2i-ruby-container.svg?branch=master)](https://travis-ci.org/sclorg/s2i-ruby-container)
 
 ruby-25-container status: [![Docker Repository on Quay](https://quay.io/repository/centos7/ruby-25-centos7/status "Docker Repository on Quay")](https://quay.io/repository/centos7/ruby-25-centos7)
